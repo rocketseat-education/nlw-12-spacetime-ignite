@@ -9,12 +9,16 @@
     "web": "expo start --web"
   },
   "dependencies": {
+    "@expo-google-fonts/bai-jamjuree": "^0.2.3",
+    "@expo-google-fonts/roboto": "^0.2.3",
     "@types/react": "~18.0.27",
     "expo": "~48.0.15",
+    "expo-font": "~11.1.1",
     "expo-status-bar": "~1.4.4",
     "nativewind": "^2.0.11",
     "react": "18.2.0",
     "react-native": "0.71.7",
+    "react-native-svg": "13.4.0",
     "typescript": "^4.9.4"
   },
   "devDependencies": {
@@ -22,6 +26,7 @@
     "@rocketseat/eslint-config": "^1.2.0",
     "eslint": "^8.40.0",
     "prettier-plugin-tailwindcss": "^0.2.8",
+    "react-native-svg-transformer": "^1.0.0",
     "tailwindcss": "^3.3.2"
   },
   "private": true
