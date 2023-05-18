@@ -27,6 +27,7 @@
   },
   "devDependencies": {
     "@rocketseat/eslint-config": "^1.2.0",
+    "@tailwindcss/forms": "^0.5.3",
     "prettier-plugin-tailwindcss": "^0.2.8"
   }
 }
